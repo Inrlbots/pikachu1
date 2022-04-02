@@ -32,9 +32,6 @@ Project created by <a href="https://github.com/ameer-kallumthodi">Ameer-kallumth
     <br> 
 </p>
 
-## Setup
-<div align="center">
-
  ## Setup
 1. Click [SCAN](https://replit.com/@Nightbot2O/baileys-qr) and scan QR through Whatsapp Linked Devices Option in Your whatsapp App.
 2. You will get a long text that needs after 4th step (ASENA_SESSION).
