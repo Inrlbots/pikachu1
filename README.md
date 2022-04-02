@@ -33,13 +33,13 @@ Project created by <a href="https://github.com/ameer-kallumthodi">Ameer-kallumth
 </p>
 
  ## Setup
-1. Click [SCAN](https://replit.com/@Nightbot2O/baileys-qr) and scan QR through Whatsapp Linked Devices Option in Your whatsapp App.
-2. You will get a long text that needs after 4th step (ASENA_SESSION).
-3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
-4. Now click [DEPLOY](https://heroku.com/deploy?template=https://github.com/ameer-kallumthodi/pikachu).
-<br>
+  
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/farhan-dqz/Julie-Mwol) 
+  
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Farhandqz/JulieMwol)
 <br>
  
+ ## Hard Method
  <div align="left">
   
   If Repl.it not working Try Termux for Qr scanning.Just Copy this Link Below in Termux
