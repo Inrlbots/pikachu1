@@ -34,11 +34,13 @@ Project created by <a href="https://github.com/ameer-kallumthodi">Ameer-kallumth
 
  ## Setup
   
+  <div align="center">
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/farhan-dqz/Julie-Mwol) 
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Farhandqz/JulieMwol)
 <br>
  
+    </div>
  ## Hard Method
  <div align="left">
   
