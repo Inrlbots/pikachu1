@@ -36,7 +36,7 @@ Project created by <a href="https://github.com/ameer-kallumthodi">Ameer-kallumth
   
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ameer-kallumthodi/pikachu) 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Farhandqz/JulieMwol)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@pikachucreator/pikachu-QR)
 <br>
  
  ## Hard Method
