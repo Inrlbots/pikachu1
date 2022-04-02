@@ -1,7 +1,7 @@
 FROM fusuf/whatsasena:latest
 
-RUN git clone https://github.com/souravkl11/Raganork /skl/Raganork
-WORKDIR /skl/Raganork
+RUN git clone https://github.com/ameer-kallumthodi/pikachu /skl/pikachu
+WORKDIR /skl/pikachu
 ENV TZ=Asia/Kolkata
 RUN npm install supervisor -g
 RUN yarn install --no-audit
